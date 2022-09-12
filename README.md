@@ -1,4 +1,4 @@
-# SOEN341
+# Blu
 SOEN 341 Photo-sharing Social Network Project - Winter 2020
 
 ## Objective
@@ -16,6 +16,7 @@ This is a project developed in the scope of the SOEN 341 course at Concordia uni
 
 ## Project
 Project description and key features
+[Wiki of Project](../../wiki)
 
 ## Team Members
 - Jean-Philippe Durand (Git Username: Aeroponz)
