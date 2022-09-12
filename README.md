@@ -15,8 +15,8 @@ This is a project developed in the scope of the SOEN 341 course at Concordia uni
 3. The software shall support user comments on all posts.
 
 ## Project
-Project description and key features
 [Wiki of Project](../../wiki)
+[Screenshot walktrough of project](https://github.com/Aeroponz/SOEN341/wiki/Screenshot-Walk-Through-of-Blu)
 
 ## Team Members
 - Jean-Philippe Durand (Git Username: Aeroponz)
