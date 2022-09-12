@@ -16,6 +16,7 @@ This is a project developed in the scope of the SOEN 341 course at Concordia uni
 
 ## Project
 [Wiki of Project](../../wiki)
+
 [Screenshot walktrough of project](https://github.com/Aeroponz/SOEN341/wiki/Screenshot-Walk-Through-of-Blu)
 
 ## Team Members
